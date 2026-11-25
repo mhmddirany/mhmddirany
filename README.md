@@ -9,7 +9,9 @@ Computer & Communication Engineering graduate (Lebanese University, 2026). I bui
 
 ### 🔧 Featured projects
 
-- **[TATRO](https://github.com/mhmddirany/TATRO_App)**: an offline app that transcribes and translates a video with every speaker labeled. It splits audio by speaker with pyannote, transcribes with Whisper, then uses Qwen3.5-9B to fix mistakes and translate, and exports a speaker-labeled PDF. Runs fully on a local GPU behind a Gradio UI. Semantic search to jump to the moment that answers a question is in progress.
+- **[TATRO](https://github.com/mhmddirany/TATro-APP-)** (Transcription, Arabic Translation, Retrieval, Offline): an offline app that transcribes and translates a video with every speaker labeled. It splits audio by speaker with pyannote, transcribes with Whisper, then uses Qwen3.5-9B to fix mistakes and translate, and exports a speaker-labeled PDF. Runs fully on a local GPU behind a Gradio UI. Semantic search to jump to the moment that answers a question is in progress.
+
+- **[Hebrew Video Transcription & ASR Benchmark](https://github.com/mhmddirany/Video-Transcription-Hebrew-ASR-Pipeline)**: a video transcription pipeline with pyannote speaker diarization and JSON/PDF transcript outputs. I put 7 speech recognition models (Whisper, Caspi, SeamlessM4T and more) head to head on 3 Hebrew datasets using WER/CER. The winner hit **12% WER on real-world audio**.
 
 - **[Hospital Management API](https://github.com/mhmddirany/hospital-project)**: a Spring Boot REST API with PostgreSQL, Flyway migrations and Docker. I audited it and documented 24 validation, concurrency and security issues as a prioritized roadmap.
 
@@ -20,11 +22,15 @@ Computer & Communication Engineering graduate (Lebanese University, 2026). I bui
 
 ### 🧰 Tools
 
-**Languages:** Python · SQL · Java · C++ · C#
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cs,java,spring,php,laravel,nextjs,docker,postgres,linux,git)](https://skillicons.dev)
+
+**Languages:** Python · SQL · C · C++ · C# · Java · PHP
 **AI & ML:** PyTorch · Hugging Face · Whisper · pyannote · Qwen3.5 · SeamlessM4T · embeddings & semantic search · WER/CER evaluation
-**Backend & data:** Spring Boot · REST APIs · PostgreSQL · pandas · Jupyter
-**Tools:** Docker · Linux · Git · Gradio · Dash
+**Backend & web:** Spring Boot · Laravel · Next.js · REST APIs · PostgreSQL · Oracle SQL
+**Data:** pandas · Jupyter · Dash
+**Tools:** Docker · Linux · Git · Gradio
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mohamadeldirany) · mohamaddirany7@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadeldirany)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamaddirany7@gmail.com)
