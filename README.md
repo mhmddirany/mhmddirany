@@ -9,7 +9,7 @@ Computer & Communication Engineering graduate (Lebanese University, 2026). I bui
 
 ### 🔧 Featured projects
 
-- **[TATRO](https://github.com/mhmddirany/TATro-APP-)** (Transcription, Arabic Translation, Retrieval, Offline): an offline app that transcribes and translates a video with every speaker labeled. It splits audio by speaker with pyannote, transcribes with Whisper, then uses Qwen3.5-9B to fix mistakes and translate, and exports a speaker-labeled PDF. Runs fully on a local GPU behind a Gradio UI. Semantic search to jump to the moment that answers a question is in progress.
+- **[TATRO](https://github.com/mhmddirany/TATRO_App)** (Transcription, Arabic Translation, Retrieval, Offline): an offline app that transcribes and translates a video with every speaker labeled. It splits audio by speaker with pyannote, transcribes with Whisper, then uses Qwen3.5-9B to fix mistakes and translate, and exports a speaker-labeled PDF. Runs fully on a local GPU behind a Gradio UI. Semantic search to jump to the moment that answers a question is in progress.
 
 - **[Hebrew Video Transcription & ASR Benchmark](https://github.com/mhmddirany/Video-Transcription-Hebrew-ASR-Pipeline)**: a video transcription pipeline with pyannote speaker diarization and JSON/PDF transcript outputs. I put 7 speech recognition models (Whisper, Caspi, SeamlessM4T and more) head to head on 3 Hebrew datasets using WER/CER. The winner hit **12% WER on real-world audio**.
 
